@@ -16,18 +16,15 @@
     <%- include('./components/header.ejs')%>
   </header> 
 
-
+  <div class="container">
+    <h1>Welcome to the <%= title %> page</h1>
+  </div>
+  
   <!-- Main Content-->
   <main>
-    <%- include('./content/' + page + '.ejs')%>
+    <%- include('.content/'+page+'ejs')%>
   </main>  
 
-
-    <!-- Navigation Section -->
-    <footer>
-      <%- include('./components/footer.ejs')%>
-    </footer> 
-  
 
   <!-- JavaScript Section -->
   <script src="/jquery/dist/jquery.min.js"></script>
