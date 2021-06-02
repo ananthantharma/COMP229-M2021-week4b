@@ -1,10 +1,10 @@
 {
-  "name": "comp229-m2021-Assignment-1",
+  "name": "comp229-m2021-Assignment1",
   "version": "0.0.2",
   "private": true,
   "description": "Demo Project for COMP229 - Assignment 1",
   "main": "index.js",
-  "repository": "https://github.com/ananthantharma/COMP229-Assignment1",
+  "repository": "https://github.com/ananthantharma/COMP229-Assignment1.git",
   "author": "Ananthan Tharmavelautham <ananthan@hotmail.ca>",
   "license": "MIT",
   "scripts": {
